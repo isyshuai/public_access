@@ -1,10 +1,10 @@
 {
   "User": {
     "adType":{
-      "string":"platfrom for admob"
+      "string": ["platfrom for admob"]
     },
     "name": {
-      "string": {}
+      "string": {"hahha name"}
     },
     "avatarUrl": {
       "regexp": "https://i\\.pravatar\\.cc/150\\?u=[0-9]{5}"
