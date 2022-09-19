@@ -1,5 +1,5 @@
 {
-  "User": {
+  "Remote": {
     "testApi1":{
       "string": [
         "测试接口api"
