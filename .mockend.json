@@ -1,38 +1,53 @@
 {
   "User": {
-    "adType":{
+    "testApi1":{
       "string": [
         "测试接口api"
       ]
     },
-    "name": {
+    "testApi2": {
       "string": [
         "测试接口api"
       ]
     },
-    "avatarUrl": {
+    "testApi3": {
       "string": [
         "测试接口api"
       ]
     },
-    "statusMessage": {
+    "testApi4": {
       "string": [
         "测试接口api"
       ]
     },
-    "email": {
+    "testApi5": {
       "string": [
         "测试接口api"
       ]
     },
-    "color": {
+    "testApi6": {
       "string": [
         "测试接口api"
       ]
     },
-    "isPublic": {
+    "testApi7": {
       "string": [
-        "platfrom for admob"
+        "测试接口api"
+      ]
+    },
+     "testApi8": {
+      "string": [
+        "测试接口api"
+      ]
+    },
+     "testApi9": {
+      "string": [
+        "测试接口api"
+      ]
+    },
+     "testApi10": {
+      "string": [
+        "测试接口api"
       ]
     }
   }
