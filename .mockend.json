@@ -19,12 +19,6 @@
     "color": {
       "regexp": "#[0-9A-F]{6}"
     },
-    "age": {
-      "int": {
-        "min": 21,
-        "max": 100
-      }
-    },
     "isPublic": {
       "boolean": {}
     }
