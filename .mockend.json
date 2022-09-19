@@ -1,8 +1,8 @@
 {
   "Remote": {
-    "testApi1":{
+    "version":{
       "string": [
-        "测试接口api"
+        "1"
       ]
     },
     "testApi2": {
