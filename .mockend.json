@@ -10,10 +10,6 @@
     "post": {
       "belongsTo": "Post"
     }
-  },
-   "RemoteConfig":{
-    "adId":{ "string":{}},
-    "appType":  {"appName":"vvlinker"}
   }
 }
 
