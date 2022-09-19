@@ -1,6 +1,8 @@
 {
   "User": {
-    "adType":"platfrom for ADMob",
+    "adType":{
+      "string":"platfrom for admob"
+    },
     "name": {
       "string": {}
     },
