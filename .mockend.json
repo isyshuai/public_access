@@ -3,10 +3,19 @@
     "title": { "string": {} },
     "comments": {
       "hasMany": "Comment"
+    },
+     "remote": {
+      "hasMany": "RemoteConfig"
     }
   },
   "Comment": {
     "body": { "string": {} },
+    "post": {
+      "belongsTo": "Post"
+    }
+  },
+  "RemoteConfig": {
+    "adid": "ad id test iiis yuans",
     "post": {
       "belongsTo": "Post"
     }
